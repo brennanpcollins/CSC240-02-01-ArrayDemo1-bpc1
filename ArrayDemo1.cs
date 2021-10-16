@@ -1,6 +1,8 @@
 ﻿using System;
 using static System.Console;
 
+// Everything looks good here.  -wsc 10/16/2021
+
 namespace CSC240_02_01_ArrayDemo1_bpc1
 {
     class ArrayDemo1
